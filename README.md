@@ -1,5 +1,11 @@
 # Pandas-
 from the basic data collection to analysis and organising data 
+Loading file
+- loading: JSON FILE, EXCEL FILE, SQL FILE, TXT FILE, CSV FILE
+- saving code as: JSON FILE, EXCEL FILE, SQL FILE, TXT FILE, CSV FILE
+.
+.
+.
 
 Weather Prediction
 - collecting data 
